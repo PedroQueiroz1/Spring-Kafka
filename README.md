@@ -10,6 +10,7 @@
 
 - [Descrição do projeto](#descrição-do-projeto)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Como utilizar](#como-utilizar)
 - [Acesso ao projeto](#acesso-ao-projeto)
 
 ## Descrição do projeto 
@@ -20,6 +21,11 @@
  
 ## Ferramentas utilizadas
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,maven)](https://skillicons.dev)
+
+## Como utilizar
+Segui exatamente como a [documentação](https://kafka.apache.org/quickstart) do Kafka indica. <br>
+- Primeiro passo: <br>
+precisamos baixar [aqui](https://dlcdn.apache.org/kafka/3.5.0/kafka_2.13-3.5.0.tgz) o kafka. <br>
 
 ## Acesso ao projeto
 
