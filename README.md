@@ -35,12 +35,12 @@ Após terminar o download, extraia o arquivo em qualquer pasta.
 
 Abra o CMD do Windows. No cmd, acesse o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
 
-Iniciar o serviço do Zookeeper: <br>
+<strong>Iniciar o serviço do Zookeeper: </strong><br>
 bin\zookeeper-server-start.bat config\zookeeper.properties<br>
 
 Agora abra outro CMD e acesse novamente o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
 
-Iniciar o Kafka Broker Service:<br>
+<strong>Iniciar o Kafka Broker Service:</strong><br>
 bin\kafka-server-start.bat config\server.properties<br>
 
 <br><br>
@@ -48,12 +48,12 @@ bin\kafka-server-start.bat config\server.properties<br>
 
 Abra o terminal do Linux. No terminal, acesse o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
 
-Iniciar o serviço do Zookeeper: <br>
+<strong>Iniciar o serviço do Zookeeper: </strong><br>
 bin/zookeeper-server-start.sh config/zookeeper.properties<br>
 
 Agora abra outro terminal e acesse novamente o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
 
-Iniciar o Kafka Broker Service:<br>
+<strong>Iniciar o Kafka Broker Service:</strong><br>
 bin/kafka-server-start.bat config/server.properties<br>
 
 <br><br>
