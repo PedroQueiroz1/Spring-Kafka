@@ -24,7 +24,7 @@
 
 ## Como utilizar
 Segui exatamente como a [documentação](https://kafka.apache.org/quickstart) do Kafka indica. <br>
-Precisa do Java 8+. <br>
+⚠️Precisa do Java 8+.⚠️ <br>
 #### Primeiro passo: <br>
 Precisamos baixar [aqui](https://dlcdn.apache.org/kafka/3.5.0/kafka_2.13-3.5.0.tgz) o kafka. <br>
 Após terminar o download, extraia o arquivo em qualquer pasta.
