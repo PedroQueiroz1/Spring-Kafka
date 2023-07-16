@@ -26,6 +26,8 @@
 Segui exatamente como a [documentação](https://kafka.apache.org/quickstart) do Kafka indica. <br>
 - Primeiro passo: <br>
 precisamos baixar [aqui](https://dlcdn.apache.org/kafka/3.5.0/kafka_2.13-3.5.0.tgz) o kafka. <br>
+- Segundo passo: <br> <br>
+<img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514315/2870/windows.png?1643514315" alt="windows" /> <strong> -> </strong>
 
 ## Acesso ao projeto
 
