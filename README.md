@@ -27,8 +27,9 @@ Segui exatamente como a [documentação](https://kafka.apache.org/quickstart) do
 - Primeiro passo: <br>
 precisamos baixar [aqui](https://dlcdn.apache.org/kafka/3.5.0/kafka_2.13-3.5.0.tgz) o kafka. <br>
 - Segundo passo: <br> <br>
-<img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514315/2870/windows.png?1643514315" alt="windows" /> <strong> -> </strong>
-
+<img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514315/2870/windows.png?1643514315" alt="windows" /> <strong> -> </strong> 
+<br><br>
+<img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514543/5413/linux.png?1643514543" alt="linux" /> <strong> -> </strong> 
 ## Acesso ao projeto
 
 Você pode [acessar o código fonte do projeto](https://github.com/PedroQueiroz1/Spring-Kafka).
