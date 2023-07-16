@@ -24,12 +24,39 @@
 
 ## Como utilizar
 Segui exatamente como a [documentação](https://kafka.apache.org/quickstart) do Kafka indica. <br>
-- Primeiro passo: <br>
-precisamos baixar [aqui](https://dlcdn.apache.org/kafka/3.5.0/kafka_2.13-3.5.0.tgz) o kafka. <br>
-- Segundo passo: <br> <br>
-<img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514315/2870/windows.png?1643514315" alt="windows" /> <strong> -> </strong> 
+Precisa do Java 8+. <br>
+#### Primeiro passo: <br>
+Precisamos baixar [aqui](https://dlcdn.apache.org/kafka/3.5.0/kafka_2.13-3.5.0.tgz) o kafka. <br>
+Após terminar o download, extraia o arquivo em qualquer pasta.
+
+#### Segundo passo:
+<br> <br>
+<p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514315/2870/windows.png?1643514315" alt="windows" /> Caso utilize Windows siga os passos abaixo.</p>
+
+Abra o CMD do Windows. No cmd, acesse o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
+
+Iniciar o serviço do Zookeeper: <br>
+bin\zookeeper-server-start.bat config\zookeeper.properties<br>
+
+Agora abra outro CMD e acesse novamente o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
+
+Iniciar o Kafka Broker Service:<br>
+bin\kafka-server-start.bat config\server.properties<br>
+
 <br><br>
-<img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514543/5413/linux.png?1643514543" alt="linux" /> <strong> -> </strong> 
+<p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514543/5413/linux.png?1643514543" alt="linux" /> Caso utilize Linux siga os passos abaixo. </p>
+
+Abra o terminal do Linux. No terminal, acesse o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
+
+Iniciar o serviço do Zookeeper: <br>
+bin/zookeeper-server-start.sh config/zookeeper.properties<br>
+
+Agora abra outro terminal e acesse novamente o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
+
+Iniciar o Kafka Broker Service:<br>
+bin/kafka-server-start.bat config/server.properties<br>
+
+<br><br>
 ## Acesso ao projeto
 
 Você pode [acessar o código fonte do projeto](https://github.com/PedroQueiroz1/Spring-Kafka).
