@@ -31,7 +31,7 @@ Após terminar o download, extraia o arquivo em qualquer pasta.
 
 #### Segundo passo:
 <br> <br>
-<p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514315/2870/windows.png?1643514315" alt="windows" /> Caso utilize Windows siga os passos abaixo.</p>
+<strong><p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514315/2870/windows.png?1643514315" alt="windows" /> Caso utilize Windows siga os passos abaixo.</p></strong>
 
 Abra o CMD do Windows. No cmd, acesse o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
 
@@ -44,7 +44,7 @@ Iniciar o Kafka Broker Service:<br>
 bin\kafka-server-start.bat config\server.properties<br>
 
 <br><br>
-<p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514543/5413/linux.png?1643514543" alt="linux" /> Caso utilize Linux siga os passos abaixo. </p>
+<strong><p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514543/5413/linux.png?1643514543" alt="linux" /> Caso utilize Linux siga os passos abaixo. </p></strong>
 
 Abra o terminal do Linux. No terminal, acesse o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
 
