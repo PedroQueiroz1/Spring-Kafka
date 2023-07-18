@@ -43,6 +43,9 @@ Agora abra outro CMD e acesse novamente o caminho da pasta em que o arquivo foi 
 <strong>Iniciar o Kafka Broker Service:</strong><br>
 bin\windows\kafka-server-start.bat config\server.properties<br>
 
+Caso queira monitorar o consumo de mensagens do kafka topic execute o comando abaixo ainda na mesma pasta anterior. <br>
+bin\windows\kafka-console-consumer.bat --topic nome-do-topic-aqui --from-beginning --bootstrap-server localhost:9092 <br>
+
 <br><br>
 <strong><p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514543/5413/linux.png?1643514543" alt="linux" /> Caso utilize Linux siga os passos abaixo. </p></strong>
 
