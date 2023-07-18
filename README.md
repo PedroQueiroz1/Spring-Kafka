@@ -36,12 +36,12 @@ Após terminar o download, extraia o arquivo em qualquer pasta.
 Abra o CMD do Windows. No cmd, acesse o caminho da pasta em que o arquivo foi baixado e extraído anteriormente. <br>Exemplo: 'cd C:\Users\pedro\Downloads\kafka' <br>
 
 <strong>Iniciar o serviço do Zookeeper: </strong><br>
-bin\zookeeper-server-start.bat config\zookeeper.properties<br>
+bin\windows\zookeeper-server-start.bat config\zookeeper.properties<br>
 
 Agora abra outro CMD e acesse novamente o caminho da pasta em que o arquivo foi baixado e extraído anteriormente.<br>
 
 <strong>Iniciar o Kafka Broker Service:</strong><br>
-bin\kafka-server-start.bat config\server.properties<br>
+bin\windows\kafka-server-start.bat config\server.properties<br>
 
 <br><br>
 <strong><p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514543/5413/linux.png?1643514543" alt="linux" /> Caso utilize Linux siga os passos abaixo. </p></strong>
