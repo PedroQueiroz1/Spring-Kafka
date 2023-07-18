@@ -14,4 +14,10 @@ public class KafkaTopicConfig {
                 .build();
     }
 
+    @Bean
+    public NewTopic javaSpringJsonTopic() {
+        return TopicBuilder.name("javaspring_json")
+                .build();
+    }
+
 }
