@@ -17,7 +17,7 @@
 
 <p align="justify">
    Dois projetos em 1!<br>
-   O primeiro projeto foi criado para ter mais conhecimento de como o Kafka funciona e sobre sua implementação.
+   O primeiro projeto foi criado para ter mais conhecimento de como o Kafka funciona e sobre sua implementação. <br>
    O segundo tem como objetivo de ser uma simulação de como operar um sistema realista(grande quantidade de mensagens) com kafka, utilizando o wikimedia.
 </p>
  
