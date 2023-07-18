@@ -30,9 +30,8 @@ Segui exatamente como a [documentação](https://kafka.apache.org/quickstart) do
 #### Primeiro passo: <br>
 Precisamos baixar [aqui](https://dlcdn.apache.org/kafka/3.5.0/kafka_2.13-3.5.0.tgz) o kafka. <br>
 Após terminar o download, extraia o arquivo em qualquer pasta.
-
+<br><br>
 #### Segundo passo:
-<br> <br>
 <strong><p align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1643514315/2870/windows.png?1643514315" alt="windows" /> Caso utilize Windows siga os passos abaixo.</p></strong>
 
 Abra o CMD do Windows. No cmd, acesse o caminho da pasta em que o arquivo foi baixado e extraído anteriormente. <br>Exemplo: 'cd C:\Users\pedro\Downloads\kafka' <br>
