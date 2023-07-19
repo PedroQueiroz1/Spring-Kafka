@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PedroQueiroz1/Spring-Kafka?style=plastic)
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 ### Tópicos 
@@ -22,7 +22,7 @@
 </p>
  
 ## Ferramentas utilizadas
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,maven,mysql)](https://skillicons.dev)
 
 ## Como utilizar
 Segui exatamente como a [documentação](https://kafka.apache.org/quickstart) do Kafka indica. <br>
