@@ -1,4 +1,4 @@
-package net.javakafka.springboot;
+package br.com.projetojsf;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
